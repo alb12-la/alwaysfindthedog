@@ -1,0 +1,23 @@
+{
+  "name": "alwaysfindthedog",
+  "version": "1.0.0",
+  "description": "A dumb project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alb12-la/alwaysfindthedog.git"
+  },
+  "keywords": [
+    "dogs",
+    "dumbstuff"
+  ],
+  "author": "alb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alb12-la/alwaysfindthedog/issues"
+  },
+  "homepage": "https://github.com/alb12-la/alwaysfindthedog#readme"
+}
